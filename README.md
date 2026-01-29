@@ -53,9 +53,9 @@ Seasoned Software Engineer with 10+ years of experience building scalable web ap
 ---
 
 ## 📊 GitHub Stats (Stable & Working)
+## 📊 GitHub Metrics (All-in-One)
 
-### 🔹 GitHub Metrics (All-in-One)
-<img src="https://metrics.lecoq.io/DeveloperSarim?template=classic&languages=1&isocalendar=1&achievements=1&followup=1" />
+![Metrics](./metrics.svg)
 
 ---
 
