@@ -70,13 +70,13 @@ Seasoned Software Engineer with 10+ years of experience building scalable web ap
 ---
 
 ### 🔹 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=DeveloperSarim" />
+<img src="https://streak-stats.demolab.com?user=DeveloperSarim&theme=default" />
 
 ---
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=DeveloperSarim&theme=flat&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=DeveloperSarim&no-frame=true&row=1&column=6" />
 
 ---
 
