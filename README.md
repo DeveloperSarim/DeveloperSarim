@@ -44,7 +44,6 @@ Seasoned Software Engineer with 10+ years of experience building scalable web ap
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
@@ -52,31 +51,21 @@ Seasoned Software Engineer with 10+ years of experience building scalable web ap
 
 ---
 
-## 📊 GitHub Stats (Stable & Working)
 ## 📊 GitHub Metrics (All-in-One)
 
 ![Metrics](./metrics.svg)
 
 ---
 
-### 🔹 Contribution Activity Graph
+## 📈 Contribution Activity
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveloperSarim&theme=github-compact" />
 
 ---
 
-### 🔹 Profile Summary
+## 📌 Profile Summary
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeveloperSarim&theme=github_dark" />
-
----
-
-### 🔹 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=DeveloperSarim&theme=default" />
-
----
-
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=DeveloperSarim&no-frame=true&row=1&column=6" />
 
 ---
 
