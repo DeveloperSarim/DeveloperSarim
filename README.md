@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Sarim+Yaseen;Full-Stack+Engineer;I+build+and+self-host+real+products" alt="Hi, I'm Sarim Yaseen" />
 
 **Software engineer with 10+ years building scalable web applications.**
-Currently building **AIX Website Development** · learning **AI / Machine Learning**
+Currently building **Rayash CRM** and **Waseet** · learning **AI / Machine Learning**
 
 <a href="https://sarimyaseen.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-sarimyaseen.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117"></a>
 <a href="https://linkedin.com/in/sarimyaseen"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sarimyaseen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"></a>
@@ -24,10 +24,10 @@ else's SaaS, that is usually where it ends up.
 
 | | |
 |---|---|
-| 🔭 **Building** | AIX Website Development |
+| 🔭 **Building** | **Rayash CRM** — real estate CRM and partner portal<br>**Waseet** — private real estate marketplace |
 | 🌱 **Learning** | AI / Machine Learning |
 | 💬 **Ask me about** | React · Express · Node.js · Full-stack architecture · Self-hosting |
-| 🏢 **Company** | [Vispur.net](https://vispur.net) |
+| 🏢 **Company** | AIX Solutions |
 | 📍 **Based in** | Pakistan |
 | 📫 **Reach me** | [hello@sarimyaseen.com](mailto:hello@sarimyaseen.com) |
 
